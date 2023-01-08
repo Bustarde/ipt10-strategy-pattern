@@ -1,0 +1,15 @@
+{
+    "name": "drieb/ipt10-strategy",
+    "autoload": {
+        "psr-4": {
+            "Drieb\\Ipt10Strategy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bustarde",
+            "email": "bustarde.audriel@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
